@@ -1,5 +1,5 @@
 {
-  "name": "browserslist-config-erb",
+  "name": "browserslist-config-erb-electron-11",
   "version": "0.0.1",
   "main": "index.js",
   "license": "MIT",
